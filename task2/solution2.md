@@ -2,7 +2,7 @@
 
 - top 5 IP addresses requests come from
 
-Technically, there is no correct answer here because there was only one trey from each IP. But the commadn I used would work correct with log files, where the same Ip is sed lots of times
+Technically, there is no correct answer here because there was only one request from each IP. But the command I used would work correctly on log files where the same IP is used lots of times.
 
 ```
     1 97.139.58.147
